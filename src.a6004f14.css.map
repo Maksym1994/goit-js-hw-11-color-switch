@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/_example.scss"],"names":[],"mappings":"AAAA,WACE,YAAA,CACA","file":"src.a6004f14.css","sourceRoot":"../src","sourcesContent":[".container {\n  display: flex;\n  margin: 10% 10%;\n}\n"]}
